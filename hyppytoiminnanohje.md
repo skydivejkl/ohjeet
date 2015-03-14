@@ -131,14 +131,14 @@ Käytössä on vasemmanpuoleinen laskeutumiskuvio, ellei pokanvanhin toisin mä�
 Muualle kuin laskeutumisalueelle laskeutuneen hyppääjän on viivyttelemättä palattava kerhorakennukselle ja ilmoittauduttava pokanvanhimmalle.
 
 ### Swooppaaminen (vauhditettu laskeutuminen)
-
-Mikäli hyppääjällä on tarkoitus suorittaa hypyllään swooppi, tulee tästä kertoa maahenkilölle seuraavat speksit:
+Mikäli hyppääjällä on tarkoitus suorittaa hypyllään swooppi (yli 90° asteen käännöksellä tehty vauhditettu laskeutuminen), tulee tästä kertoa maahenkilölle seuraavat speksit:
 
 * Vauhdinoton aloituskorkeus
+* Vauhdinoton aloitussijainti
 * Vauhdinoton asteluku
 * Vauhdinoton suunta
 
-Esimerkiksi *270°, vasemman kautta, 220 metrissä*.
+Esimerkiksi *220 metrissä, laskeutumisalueen päällä, 270°, vasemman kautta, *.
 
 Suunnitelmaa ei saa muuttaa tämän jälkeen - suunnitelman voi aina peruuttaa.
 
